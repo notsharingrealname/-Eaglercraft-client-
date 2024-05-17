@@ -1,2 +1,1 @@
-Portfolio
-with react
+sorry dont got intro :)
